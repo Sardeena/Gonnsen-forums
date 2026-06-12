@@ -1,0 +1,6 @@
+{
+  "name": "Gonnsen Territory RolePlay",
+  "description": "The official community forum of Gonnsen Territory RolePlay, featuring player reports, server whitelists, in-game trading, and interactive staff dashboards in classic GTA:SA style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
